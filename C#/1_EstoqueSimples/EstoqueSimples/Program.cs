@@ -9,9 +9,7 @@ namespace EstoqueSimples
         static void Main(string[] args)
         {
 
-            
-
-            Console.WriteLine("Entre com as informaçõess abaixo.");
+            Console.WriteLine("Entre com as informaçõess abaixo:");
             Console.Write("Nome do produto: ");
             string nome = Console.ReadLine();
             Console.Write("Preço do produto: R$");

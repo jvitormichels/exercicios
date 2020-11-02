@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Text;
+﻿using System.Globalization;
 
 namespace EstoqueSimples
 {
@@ -11,6 +8,8 @@ namespace EstoqueSimples
         private double _preco;
         private int _quantidade;
 
+
+
         public Produto(string nome, double preco, int quantidade)
         {
             _nome = nome;
@@ -18,33 +17,48 @@ namespace EstoqueSimples
             _quantidade = quantidade;
         }
 
-        public string GetNome()
-        {
-            return _nome;
-        }
 
-        public void SetNome(string nome)
+        public string Nome 
         {
-            if (nome != null && nome.Length > 1)
-            {
-                _nome = nome;
+            get { return _nome; }
+            set {
+                if (value != null && value.Length > 1)
+                {
+                    _nome = value;
+                }
             }
         }
+
+
+        public double Preco
+        {
+            get { return _preco; }
+        }
+
+
+        public int Quantidade
+        {
+            get { return _quantidade; }
+        }
+
 
         public double ValorTotalEmEstoque()
         {
             return _quantidade * _preco;
         }
 
+
         public void AdicionaProduto(int quantidade)
         {
             _quantidade += quantidade;
         }
 
+
         public void RemoveProduto(int quantidade)
         {
             _quantidade -= quantidade;
         }
+
 
         public override string ToString()
         {

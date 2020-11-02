@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\WorkSpace\\cursoC#\\EstoqueSimples\\EstoqueSimples\\EstoqueSimples.csproj": {}
+    "C:\\WorkSpace\\programming\\C#\\1_EstoqueSimples\\EstoqueSimples\\EstoqueSimples.csproj": {}
   },
   "projects": {
-    "C:\\WorkSpace\\cursoC#\\EstoqueSimples\\EstoqueSimples\\EstoqueSimples.csproj": {
+    "C:\\WorkSpace\\programming\\C#\\1_EstoqueSimples\\EstoqueSimples\\EstoqueSimples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\WorkSpace\\cursoC#\\EstoqueSimples\\EstoqueSimples\\EstoqueSimples.csproj",
+        "projectUniqueName": "C:\\WorkSpace\\programming\\C#\\1_EstoqueSimples\\EstoqueSimples\\EstoqueSimples.csproj",
         "projectName": "EstoqueSimples",
-        "projectPath": "C:\\WorkSpace\\cursoC#\\EstoqueSimples\\EstoqueSimples\\EstoqueSimples.csproj",
+        "projectPath": "C:\\WorkSpace\\programming\\C#\\1_EstoqueSimples\\EstoqueSimples\\EstoqueSimples.csproj",
         "packagesPath": "C:\\Users\\Mirje\\.nuget\\packages\\",
-        "outputPath": "C:\\WorkSpace\\cursoC#\\EstoqueSimples\\EstoqueSimples\\obj\\",
+        "outputPath": "C:\\WorkSpace\\programming\\C#\\1_EstoqueSimples\\EstoqueSimples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mirje\\AppData\\Roaming\\NuGet\\NuGet.Config",
