@@ -51,7 +51,6 @@ namespace EstoqueSimples
         public override string ToString()
         {
             return $"Dados do produto \n" +
-                $"----------------\n" +
                 $"Produto: {_nome} \n" +
                 $"Preço: R${Preco.ToString("F2", CultureInfo.InvariantCulture)} \n" +
                 $"Em estoque: {Quantidade} \n" +

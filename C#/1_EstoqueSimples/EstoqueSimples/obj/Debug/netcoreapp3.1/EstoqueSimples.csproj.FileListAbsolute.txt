@@ -23,3 +23,16 @@ C:\WorkSpace\cursoC#\EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\Estoq
 C:\WorkSpace\cursoC#\EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.dll
 C:\WorkSpace\cursoC#\EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.pdb
 C:\WorkSpace\cursoC#\EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.genruntimeconfig.cache
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\bin\Debug\netcoreapp3.1\EstoqueSimples.exe
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\bin\Debug\netcoreapp3.1\EstoqueSimples.deps.json
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\bin\Debug\netcoreapp3.1\EstoqueSimples.runtimeconfig.json
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\bin\Debug\netcoreapp3.1\EstoqueSimples.runtimeconfig.dev.json
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\bin\Debug\netcoreapp3.1\EstoqueSimples.dll
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\bin\Debug\netcoreapp3.1\EstoqueSimples.pdb
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.csprojAssemblyReference.cache
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.AssemblyInfoInputs.cache
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.AssemblyInfo.cs
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.csproj.CoreCompileInputs.cache
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.dll
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.pdb
+C:\WorkSpace\programming\C#\1_EstoqueSimples\EstoqueSimples\obj\Debug\netcoreapp3.1\EstoqueSimples.genruntimeconfig.cache
