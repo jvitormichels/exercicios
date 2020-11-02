@@ -1,0 +1,13 @@
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.csprojAssemblyReference.cache
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.AssemblyInfoInputs.cache
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.AssemblyInfo.cs
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.csproj.CoreCompileInputs.cache
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.exe
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.deps.json
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.runtimeconfig.json
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.runtimeconfig.dev.json
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.dll
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\bin\Debug\netcoreapp3.1\3_Pensionato.pdb
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.dll
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.pdb
+C:\WorkSpace\programming\C#\3_Pensionato\3_Pensionato\obj\Debug\netcoreapp3.1\3_Pensionato.genruntimeconfig.cache
