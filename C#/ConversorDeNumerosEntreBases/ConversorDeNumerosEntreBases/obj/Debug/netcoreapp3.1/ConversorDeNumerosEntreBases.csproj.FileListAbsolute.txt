@@ -1,0 +1,13 @@
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\bin\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.exe
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\bin\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.deps.json
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\bin\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.runtimeconfig.json
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\bin\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.runtimeconfig.dev.json
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\bin\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.dll
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\bin\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.pdb
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\obj\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.csprojAssemblyReference.cache
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\obj\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.AssemblyInfoInputs.cache
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\obj\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.AssemblyInfo.cs
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\obj\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.csproj.CoreCompileInputs.cache
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\obj\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.dll
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\obj\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.pdb
+C:\WorkSpace\programming\C#\ConversorDeNumerosEntreBases\ConversorDeNumerosEntreBases\obj\Debug\netcoreapp3.1\ConversorDeNumerosEntreBases.genruntimeconfig.cache
