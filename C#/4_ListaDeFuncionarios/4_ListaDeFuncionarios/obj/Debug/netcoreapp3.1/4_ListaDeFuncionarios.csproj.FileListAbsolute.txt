@@ -1,0 +1,13 @@
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\bin\Debug\netcoreapp3.1\4_ListaDeFuncionarios.exe
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\bin\Debug\netcoreapp3.1\4_ListaDeFuncionarios.deps.json
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\bin\Debug\netcoreapp3.1\4_ListaDeFuncionarios.runtimeconfig.json
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\bin\Debug\netcoreapp3.1\4_ListaDeFuncionarios.runtimeconfig.dev.json
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\bin\Debug\netcoreapp3.1\4_ListaDeFuncionarios.dll
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\bin\Debug\netcoreapp3.1\4_ListaDeFuncionarios.pdb
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\obj\Debug\netcoreapp3.1\4_ListaDeFuncionarios.csprojAssemblyReference.cache
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\obj\Debug\netcoreapp3.1\4_ListaDeFuncionarios.AssemblyInfoInputs.cache
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\obj\Debug\netcoreapp3.1\4_ListaDeFuncionarios.AssemblyInfo.cs
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\obj\Debug\netcoreapp3.1\4_ListaDeFuncionarios.csproj.CoreCompileInputs.cache
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\obj\Debug\netcoreapp3.1\4_ListaDeFuncionarios.dll
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\obj\Debug\netcoreapp3.1\4_ListaDeFuncionarios.pdb
+C:\WorkSpace\programming\C#\4_ListaDeFuncionarios\4_ListaDeFuncionarios\obj\Debug\netcoreapp3.1\4_ListaDeFuncionarios.genruntimeconfig.cache
