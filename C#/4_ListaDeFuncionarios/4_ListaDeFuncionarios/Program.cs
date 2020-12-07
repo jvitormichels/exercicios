@@ -50,6 +50,11 @@ namespace _4_ListaDeFuncionarios
                         {
                             Console.WriteLine(obj);
                         }
+
+                        Console.WriteLine("\n");
+                        Console.Write("Insira qualquer coisa para continuar");
+                        char pauseControl = char.Parse(Console.ReadLine());
+                        Console.Clear();
                         break;
                 }
             } while (escolha != '4');
