@@ -25,5 +25,12 @@ namespace composition.Entities
         {
             return ValuePerHour * Hours;
         }
+
+        public override string ToString()
+        {
+            return $"Date: {Date.Date}\n" +
+                $"Value per hour: ${ValuePerHour}\n" +
+                $"Hours: {Hours}";
+        }
     }
 }

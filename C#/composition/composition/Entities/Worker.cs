@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using composition.Entities.Enums;
 
 namespace composition.Entities
@@ -45,6 +46,24 @@ namespace composition.Entities
                 }
             }
             return sum;
+        }
+
+        public void ShowContracts()
+        {
+            foreach (HourContract contract in Contracts)
+            {
+                Console.Write(contract);
+                Console.WriteLine("\n");
+            }
+        }
+
+        public override string ToString()
+        {
+            return $"Worker's data:\n" +
+                $"Name: {Name}\n" +
+                $"Level: {Level}\n" +
+                $"Base Salary: {BaseSalary}\n" +
+                $"Department: {Department}";
         }
     }
 }
