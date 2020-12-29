@@ -21,7 +21,57 @@ namespace composition
             Department department = new Department(deptName);
             Worker worker = new Worker(name, level, baseSalary, department);
 
-            Console.Write("\nHow many contracts to this worker? ");
+
+            Console.Clear();
+            Console.WriteLine("Do you want to: \n" +
+                "1. Add a contract\n" +
+                "2. Remove a contract\n" +
+                "3. Calculate income\n");
+            int choice = int.Parse(Console.ReadLine());
+
+            if (choice == 1)
+            {
+                Console.Clear();
+                Console.WriteLine($"Enter contract's data:");
+                Console.Write("Date (DD/MM/YYYY): ");
+                DateTime date = DateTime.Parse(Console.ReadLine());
+                Console.Write("Value: ");
+                double valuePerHour = double.Parse(Console.ReadLine());
+                Console.Write("Duration (hours): ");
+                int hours = int.Parse(Console.ReadLine());
+
+                HourContract contract = new HourContract(date, valuePerHour, hours);
+                worker.AddContract(contract);
+
+            }
+            else if (choice == 2)
+            {
+                Console.Clear();
+                Console.WriteLine($"Enter contract's data:");
+                Console.Write("Date (DD/MM/YYYY): ");
+                DateTime date = DateTime.Parse(Console.ReadLine());
+                Console.Write("Value: ");
+                double valuePerHour = double.Parse(Console.ReadLine());
+                Console.Write("Duration (hours): ");
+                int hours = int.Parse(Console.ReadLine());
+                HourContract contract = new HourContract(date, valuePerHour, hours);
+
+                worker.RemoveContract(contract);
+            }
+            else if (choice == 3)
+            {
+                Console.Clear();
+                Console.Write("Enter month and year to calculate income (MM/YYYY): ");
+                string monthAndYear = Console.ReadLine();
+                int month = int.Parse(monthAndYear.Substring(0, 2));
+                int year = int.Parse(monthAndYear.Substring(3));
+
+                Console.WriteLine($"Name: {worker.Name}" +
+                    $"\nDepartment: {worker.Department.Name}" +
+                    $"\nIncome for {monthAndYear}: R${worker.Income(year, month)}");
+            }
+
+            /*Console.Write("\nHow many contracts to this worker? ");
             int numberOfContracts = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < numberOfContracts; i++)
@@ -37,17 +87,7 @@ namespace composition
 
                 HourContract contract = new HourContract(date, valuePerHour, hours);
                 worker.AddContract(contract);
-            }
-
-            Console.Clear();
-            Console.Write("Enter month and year to calculate income (MM/YYYY): ");
-            string monthAndYear = Console.ReadLine();
-            int month = int.Parse(monthAndYear.Substring(0, 2));
-            int year = int.Parse(monthAndYear.Substring(3));
-
-            Console.WriteLine($"Name: {worker.Name}" +
-                $"\nDepartment: {worker.Department.Name}" +
-                $"\nIncome for {monthAndYear}: R${worker.Income(year, month)}");
+            }*/
         }
     }
 }
