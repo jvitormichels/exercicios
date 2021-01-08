@@ -44,7 +44,7 @@ namespace funcionarios__com_polimorfismo_
 
             foreach (Employee e in employees)
             {
-                Console.WriteLine(e);
+                Console.WriteLine(e.Name + " - $" + e.Payment().ToString("F2", CultureInfo.InvariantCulture));
             }
         }
     }

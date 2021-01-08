@@ -25,10 +25,5 @@ namespace funcionarios__com_polimorfismo_.Entities
         {
             return Hours * ValuePerHour;
         }
-
-        public override string ToString()
-        {
-            return Name + " - $" + Payment().ToString("F2");
-        }
     }
 }
