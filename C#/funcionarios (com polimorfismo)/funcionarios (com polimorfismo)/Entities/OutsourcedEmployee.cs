@@ -20,7 +20,7 @@ namespace funcionarios__com_polimorfismo_.Entities
 
         public override double Payment()
         {
-            return Hours * ValuePerHour + (AdditionalCharge * 1.1);
+            return base.Payment() + (AdditionalCharge * 1.1);
         }
     }
 }

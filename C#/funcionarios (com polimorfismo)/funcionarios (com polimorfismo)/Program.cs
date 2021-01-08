@@ -13,9 +13,9 @@ namespace funcionarios__com_polimorfismo_
             Console.Write("Enter the number of employees: ");
             int n = int.Parse(Console.ReadLine());
 
-            for (int i = 0; i < n; i++)
+            for (int i = 1; i <= n; i++)
             {
-                Console.WriteLine($"Employee #{i+1} data:");
+                Console.WriteLine($"Employee #{i} data:");
                 Console.Write("Outsourced? (y/n) ");
                 char outsourced = char.Parse(Console.ReadLine());
                 Console.Write("Name: ");
