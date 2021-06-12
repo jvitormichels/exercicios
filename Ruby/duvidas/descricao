@@ -1,0 +1,7 @@
+1 - Importação de classes e childs quando separadas por arquivo
+    * Classes "Maratonista" e "Futebolista" herdam da classe "Esportista".
+    * Ambas são utilizadas no aplicativo.
+    * Separados por arquivos.
+
+    * Importar as classes pai no app, importar o pai na classe filha ou um terceiro jeito?
+    

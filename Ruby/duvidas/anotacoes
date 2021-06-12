@@ -1,0 +1,10 @@
+Declaração de variáveis
+
+Locais: camelCase ou _
+    Vistas apenas dentro do método no qual foram declaradas
+Globais: $
+    Acessíveis por *TODO* o programa, uso fortemente desencorajado
+De classe: @@
+    A mesma variável é vista por todas as instâncias de uma mesma classe
+De instância / atributos: @
+    Vista apenas por aquela instância específica, são _variáveis privadas_
