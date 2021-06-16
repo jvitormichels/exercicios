@@ -1,0 +1,7 @@
+<h2><p><%= @weapon.title %></p></h2>
+<p><%= @weapon.description %></p>
+<p>Poder: <%= @weapon.current_power %></p>
+<p>Poder base: <%= @weapon.power_base %></p>
+<p>Passo de poder: <%= @weapon.power_step %></p>
+<%= link_to 'Deletar', @weapon, method: :delete, data: { confirm: "Tem certeza que deseja remover #{@weapon.name}?" } %>
+<hr>

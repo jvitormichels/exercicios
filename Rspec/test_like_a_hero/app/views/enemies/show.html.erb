@@ -1,0 +1,6 @@
+<h2><p><%= @enemy.title %></p></h2>
+<p>Poder: <%= @enemy.current_power %></p>
+<p>Poder base: <%= @enemy.power_base %></p>
+<p>Passo de poder: <%= @enemy.power_step %></p>
+<%= link_to 'Deletar', @enemy, method: :delete, data: { confirm: "Tem certeza que deseja remover #{@enemy.name}?" } %>
+<hr>

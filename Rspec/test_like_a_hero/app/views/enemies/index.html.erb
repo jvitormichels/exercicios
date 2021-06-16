@@ -1,0 +1,6 @@
+<% @enemies.each do |enemy| %>
+    <h3><%= enemy.title %></h3>
+    Poder: <%= enemy.current_power %>
+    <h3><%= link_to "Detalhes", enemy %>
+    <hr>
+<% end %>

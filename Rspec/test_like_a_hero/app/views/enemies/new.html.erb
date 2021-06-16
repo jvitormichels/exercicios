@@ -1,0 +1,40 @@
+<p><h3>Criar novo inimigo</h3></p>
+<%= form_for @enemy do |form| %>
+
+    <div>
+        <%= form.label :name %>
+        <br>
+        <%= form.text_field :name %>
+    </div>
+
+    <div>
+        <%= form.label :level %>
+        <br>
+        <%= form.number_field :level %>
+    </div>
+
+    <div>
+        <%= form.label :power_base %>
+        <br>
+        <%= form.number_field :power_base %>
+    </div>
+    
+    <div>
+        <%= form.label :power_step %>
+        <br>
+        <%= form.number_field :power_step %>
+    </div>
+
+    <div>
+        <%= form.label :kind %>
+        <br>
+        <select name="enemy[kind]">
+            <option value='goblin'>Goblin</option>
+            <option value='orc'>Orc</option>
+            <option value='demon'>Demon</option>
+            <option value='dragon'>Dragon</option>
+        </select>
+    </div>
+
+    <%= form.submit "Criar" %>
+<% end %>

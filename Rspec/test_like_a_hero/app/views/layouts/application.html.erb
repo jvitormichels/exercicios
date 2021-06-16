@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TestLikeAHero</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+  <h2><%= link_to "FerroStore", root_url %></h2>
+  <h2><%= link_to "Artigos para caçadores", enemies_path %></h2>
+  <%= link_to "nova arma FERRO", new_weapon_path %>
+  <%= link_to "novo monstro FERRO", new_enemy_path %>
+  <br><br>
+
+  <body>
+    <%= yield %>
+  </body>
+</html>

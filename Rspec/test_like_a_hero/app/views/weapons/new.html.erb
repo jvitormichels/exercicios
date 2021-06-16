@@ -1,0 +1,35 @@
+<p><h3>Criar nova arma</h3></p>
+<%= form_for @weapon do |form| %>
+
+    <div>
+        <%= form.label :name %>
+        <br>
+        <%= form.text_field :name %>
+    </div>
+
+    <div>
+        <%= form.label :description %>
+        <br>
+        <%= form.text_area :description %>
+    </div>
+
+    <div>
+        <%= form.label :level %>
+        <br>
+        <%= form.number_field :level %>
+    </div>
+
+    <div>
+        <%= form.label :power_base %>
+        <br>
+        <%= form.number_field :power_base %>
+    </div>
+    
+    <div>
+        <%= form.label :power_step %>
+        <br>
+        <%= form.number_field :power_step %>
+    </div>
+
+    <%= form.submit "Criar" %>
+<% end %>
